@@ -25,15 +25,11 @@ You will work through a series of milestones, each building on the last:
 
 The car model is realistic: it has velocity as a state (not a direct input), meaning it accelerates and decelerates due to drag and friction — just like a real vehicle.
 
-> **The full task description and all mathematical background is in [TASK.md](./TASK.md).**
+
 
 ---
 
-## 📖 Hands-On Assignment Guide
 
-All instructions, mathematical derivations, milestone walkthroughs, and deliverable specifications are detailed in the official student task guide:
-
-👉 **[Read the Full Hands-On Assignment Guide (TASK.md)](./TASK.md)** 👈
 
 ---
 
